@@ -23,14 +23,7 @@ The USB HID Gadget driver provides emulation of USB Human Interface Devices (HID
 - USB OTG (On The Go) cable/adapter (USB male Micro-B to female USB A), and a standard charging cable (USB male Micro-B to male A).
 - That's all!
 
-## 🌟 Benefits
 
-- Turn your NetHunter phone into an Android PIN cracking machine
-- Unlike other methods, you do not need ADB or USB debugging enabled on the locked phone
-- The locked Android phone does not need to be rooted
-- You don't need to buy special hardware, e.g. Rubber Ducky, Teensy, Cellebrite, XPIN Clip, etc.
-- You can easily modify the backoff time to crack other types of devices
-- It works!
 
 ## ⭐ Features
 
@@ -42,9 +35,7 @@ The USB HID Gadget driver provides emulation of USB Human Interface Devices (HID
 - Configurable delays of N seconds after every X PIN attempts
 - Log file
 
-## Installation
 
-TBC
 
 ## Executing the script
 
@@ -595,5 +586,4 @@ Electromechanical PIN Cracking with Robotic Reconfigurable Button Basher (and C3
 https://www.defcon.org/html/defcon-21/dc-21-speakers.html#Engler
 
 DataGenetics PIN analysis https://datagenetics.com/blog/september32012/index.html
-
-
+# this fiile is copy from https://github.com/urbanadventurer/Android-PIN-Bruteforce
